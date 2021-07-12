@@ -5,5 +5,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EditorPreviousWordWithSelection" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="ResizeToolWindowLeft" />
+  <action id="SaveAll" />
 </keymap>
